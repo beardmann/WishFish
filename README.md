@@ -20,10 +20,18 @@ $ cd wishfish
 Now turn your device hotspot
 
 $ ./wishfish.sh
-for copy image from  termux  directory  to   sd card
-cp imagename.type /sdcard
-for  move the  captured  image
-mv imagename.type /sdcard
+command  for  uninstall tool
+rm-rf pakage name
+
+
+
+
+
+
+
+
+ 
+
 
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
