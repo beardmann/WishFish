@@ -21,6 +21,7 @@ Now turn your device hotspot
 
 $ ./wishfish.sh
 command  for  uninstall tool
+
 rm-rf pakage name
 
 
